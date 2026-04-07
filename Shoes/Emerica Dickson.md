@@ -14,7 +14,7 @@ date: 2026-03-18
 rating: 9.5
 link: https://emerica.com/products/dickson-black-black
 images: [Emerica Dickson - 1.png, Emerica Dickson - 2.png, Emerica Dickson - 3.png]
-active: true
+active: false
 ---
 
 ### Pros
